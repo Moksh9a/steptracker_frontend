@@ -1,0 +1,30 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-image: url('steptracker.png'); /* Replace with the path to your image */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+  
+  .container {
+    text-align: center;
+    margin-top: 20%;
+    background-color: rgba(255, 255, 255, 0.8); /* Optional: to make text stand out */
+    padding: 20px;
+    border-radius: 10px;
+  }
+  
+  button {
+    margin: 10px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  #stepCount {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
